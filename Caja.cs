@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Supermercado
 {
-    class jhCaja
+    class Caja
     {
         private int numero;
         private List <Venta> listaVenta;
